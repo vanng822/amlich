@@ -1,0 +1,17 @@
+{
+	"name": "amlich",
+	"description": "Converting date between Julian and Lunar calendar",
+	"keywords": ["Julian", "Lunar", "calendar", "convert"],
+	"homepage": "https://github.com/vanng822/amlich",
+	"contributors": [],
+	"devDependencies": ["vows"],
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vanng822/amlich.git"
+	},
+	"scripts": {
+		"test": "vows --v --spec tests/test_*.js"
+	},
+	"version": "0.0.1"
+}
