@@ -11,7 +11,7 @@
 		"url": "git://github.com/vanng822/amlich.git"
 	},
 	"scripts": {
-		"test": "vows --v --spec tests/test_*.js"
+		"test": "vows --spec tests/test_*.js"
 	},
 	"version": "0.0.1"
 }
