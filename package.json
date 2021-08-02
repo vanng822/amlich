@@ -9,6 +9,7 @@
     "convert"
   ],
   "main": "./index.js",
+  "types": "amlich.d.ts",
   "scripts": {
     "test": "vows --spec tests/test_*.js"
   },
